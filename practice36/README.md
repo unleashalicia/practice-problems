@@ -10,7 +10,7 @@
 - begin loop
 	- get each letter, one at a time
 	- compare it with each each vowel and see if it matches
-		- if it is, add it to the vowel variable
+		- if it does, add it to the vowel variable
 - repeat
 
 
